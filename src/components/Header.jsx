@@ -13,7 +13,7 @@ const location = useLocation()
 };
 
 Header.defaultProps = {
-  title: "Task Master",
+  title: "Task Manager",
 };
 
 Header.propTypes = {
